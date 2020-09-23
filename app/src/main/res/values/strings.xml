@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Order Detail</string>
+    <string name="_2500_ks">2500 KS</string>
+    <string name="_980000_ks">980000 KS</string>
+    <string name="name">Name</string>
+    <string name="panasonic">Panasonic</string>
+    <string name="_20_20410_ks">20%(20410 KS)</string>
+    <string name="blender_n41015">Blender N41015</string>
+    <string name="order_number_1245783">Order Number : 1245783</string>
+    <string name="grandma_home">grandma home</string>
+    <string name="_999999_ks">999999 KS</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="account_number">Account Number</string>
+    <string name="bank_information">Bank Information</string>
+    <string name="qty">Qty</string>
+    <string name="todo">TODO</string>
+    <string name="qty">Qty</string>
+    <string name="gold">Gold</string>
+    <string name="iphone_8_plus">iphone 8 plus</string>
+    <string name="todo">TODO</string>
+    <string name="bank_transfer">BANK TRANSFER</string>
+    <string name="fg_22365893">FG-22365893</string>
+    <string name="full_Column">:</string>
+    <string name="full_Column">:</string>
+    <string name="full_Column">:</string>
+    <string name="full_Column">:</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="discount">Discount</string>
+    <string name="applied_coupon_code">Applied Coupon Code</string>
+    <string name="delievered_changes">Delievered Changes</string>
+    <string name="total_item_4">Total Item:4</string>
+    <string name="milionnaya_street_29_flat_10">Milionnaya street 29,flat 10</string>
+    <string name="russia_s_petersburg_196048ru">Russia,S.Petersburg 196048RU</string>
+    <string name="order_date_19_9_1999">order date-19/9/1999</string>
+    <string name="delivered">DELIVERED</string>
+    <string name="special_request">Special Request</string>
+    <string name="_105_2000_ks">105,2000 Ks</string>
+    <string name="delivery_details">Delivery details</string>
+
+</resources>
